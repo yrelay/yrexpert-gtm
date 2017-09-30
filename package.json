@@ -1,0 +1,32 @@
+{
+  "name": "yrexpert-gtm",
+  "description": "Terminal mode navigateur pour yrexpert-js...",
+  "version": "0.0.1",
+  "author": {
+    "name": "Yrelay",
+    "email": "info@yrelay.fr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yrelay/yrexpert-gtm.git"
+  },
+  "os": [
+    "any"
+  ],
+  "directories": {
+    "lib": "./lib/"
+  },
+  "main": "./lib/yrexpert-gtm.js",
+  "engines": {
+    "node": ">=0.2.2"
+  },
+  "dependencies": {
+    "ewd-document-store": ""
+  },
+  "licenses": [
+    "GPL-3.0"
+  ],
+  "bugs": {
+    "url": "https://github.com/yrelay/yrexpert-gtm/issues"
+  }
+}
